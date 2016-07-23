@@ -1,2 +1,0 @@
-Jones, Bob: 1 Introduction to Computer Science, AJohnson, Sarah: 2 Data Structures, B+
-Smith, Sam: 3 Data Structures, C
