@@ -7,9 +7,9 @@ using System.IO;
  * Date Created July 12 2016
  * Date Modified July 22 2016
  * <summary>
- * The purpose of this program is to allow the user to demonstrate File I/O and event handling
+ * The purpose of this program is to allow the user to demonstrate File I/O and Exception Handling
  * </summary> 
- * Version 2: Fixed aweful spelling mistakes, also corrected text file path
+ * Version 3: Corrected spelling mistake, on project name
  */
 namespace gradeA_5
 {
